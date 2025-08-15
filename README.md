@@ -39,7 +39,8 @@ A collection of study guides, notes, and references for certifications and IT/Cy
   - A **README.md** — the *key* to open the resource.
 
 ### 📌 Available Resources
-- **CompTIA A+ Core 2 Study Guide** — complete notes for exam preparation.
+- **CompTIA A+ Core 2 Study Guide** — complete study guide for exam preparation.
+- **CompTIA A+ Core 1 Study Guide / Exam Objectives** — complete gtudy guide for exam preparation.
 
 ---
 
