@@ -41,6 +41,7 @@ A collection of study guides, notes, and references for certifications and IT/Cy
 ### 📌 Available Resources
 - **CompTIA A+ Core 2 Study Guide** — complete study guide for exam preparation.
 - **CompTIA A+ Core 1 Study Guide / Exam Objectives** — complete gtudy guide for exam preparation.
+- **CompTIA A+ Mastery Motherboards, Processors, and Memory** - complete lectures covering these topics.
 
 ---
 
